@@ -11,8 +11,8 @@ params:
   socialIcons: # optional
     - name: "github"
       url: "https://github.com/XXX"
-    - name: "youtube"
-       url: "https://www.youtube.com/channel/trailhopper27"
+    # - name: "youtube"
+    #    url: "https://www.youtube.com/channel/trailhopper27"
     # - name: "twitter"
     #   url: "https://twitter.com/XXX"
     # - name: "kofi"

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Aaron&#39;s Second Brain</title>
+    <link>https://notes.aaront.xyz/</link>
+    <description>Recent content on Aaron&#39;s Second Brain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://notes.aaront.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Book of Jude (NRSVue)</title>
+      <link>https://notes.aaront.xyz/pages/the-book-of-jude-nrsvue/</link>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.aaront.xyz/pages/the-book-of-jude-nrsvue/</guid>
+      <description>Salutation Nothing of note here Occasion of the Letter ^{3}Beloved, while eagerly preparing to write to you about the salvation we share, I find it necessary to write and appeal to you to contend for the faith that was once and for all handed on to the saints. ^{4} For certain intruders have stolen in among you, people who long ago were designated for this condemnation as ungodly , who pervert the grace of our God into debauchery and deny our only Master and Lord, Jesus Christ.</description>
+    </item>
+    
+    <item>
+      <title>random page form logseq</title>
+      <link>https://notes.aaront.xyz/pages/random-page-from-logseq/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://notes.aaront.xyz/pages/random-page-from-logseq/</guid>
+      <description>Title 1 foooo
+Title 2 foooo</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
