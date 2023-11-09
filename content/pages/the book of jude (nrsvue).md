@@ -1,19 +1,11 @@
 ---
-banner: false
-status: reading
-name: **The Book of Jude**
-author: Jude
-link: ![](book path)
-tag:
-- Religous
 title: The Book of Jude (NRSVue)
 fileName: the book of jude (nrsvue)
 tags:
-- Religon
+- Religion
 categories:
 - Book
-- Religon
-date: 2023-11-09
+date: 0023-11-09
 lastMod: 2023-11-09
 ---
 ## Salutation
