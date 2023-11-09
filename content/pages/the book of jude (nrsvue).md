@@ -1,12 +1,20 @@
 ---
+banner: false
+status: reading
+name: **The Book of Jude**
+author: Jude
+link: ![](book path)
+tag:
+- Religous
 title: The Book of Jude (NRSVue)
 fileName: the book of jude (nrsvue)
 tags:
 - Religon
 categories:
+- Book
 - Religon
 date: 2023-11-09
-lastMod: 
+lastMod: 2023-11-09
 ---
 ## Salutation
 
@@ -39,12 +47,26 @@ https://www.biblegateway.com/passage/?search=Jude%201&version=NRSVUE
 
   + So many things are known by instinct that are later referenced as a sin (ex. gluttony)
 
+## Warnings and Exhortations
+
+  + > ^{17} But you, beloved, must remember the words previously spoken by the apostles of our Lord Jesus Christ, ^{18} for they said to you, “In the last time there will be scoffers, indulging their own ungodly lusts.” ^{19} {{< logseq/mark >}}It is these worldly people, devoid of the Spirit, who are causing divisions{{< / logseq/mark >}}. ^{20} But you, beloved, build yourselves up on your most holy faith; pray in the Holy Spirit; ^{21} keep yourselves in the love of God; look forward to the mercy of our Lord Jesus Christ that leads to eternal life. ^{22} And have mercy on some who are wavering; ^{23} save others by snatching them out of the fire; {{< logseq/mark >}}and have mercy on still others with fear{{< / logseq/mark >}}, hating even the tunic defiled by their bodies.
+
+  + Verse 19 feels even more prevelant in today's society with politics
+
+  + "...and have mercy on still others with fear..." -- sounds even more like messy grace
+
+    + It's interesting using the word fear there
+
+    + I kinda read it like "others with caution", as you need to ensure you don't slip in your faith
+
+      + Can be easy to do in today's culture, with it being all around us
+
+## Benediction
+
+  + I didn't really have anything here either
+
 ## Sources
 
-  + [Jude 1 from the NRSVue on BibleGateway](https://www.biblegateway.com/passage/?search=Jude%201&version=NRSVUE)
+[Jude 1 from the NRSVue on BibleGateway](https://www.biblegateway.com/passage/?search=Jude%201&version=NRSVUE)
 
-  + [^1]: https://www.youthpastor.com/lessons/index.cfm/Study-Word_Study_Slander_182.htm
-
-  + 
-
-
+[^1]: https://www.youthpastor.com/lessons/index.cfm/Study-Word_Study_Slander_182.htm

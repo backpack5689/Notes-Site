@@ -6,7 +6,7 @@ theme: "PaperMod"
 params:
   homeInfoParams:
     Title: Sup bruh 😎
-    Content: This is something shows in your homepage.
+    Content: Welcome to my Second Brain! I'll publish notes here occasionally in order to share them with others. Pick one of the pages below!
 
   socialIcons: # optional
     - name: "github"
@@ -21,7 +21,7 @@ params:
     #   url: "https://XXX.github.io/index.xml"
   ShowReadingTime: true
   author: "Aaron Thompson"
-  contact: "LinusT@example.com"
+  contact: "amthompson012@gmail.com"
   feedlinks: true
   copyright: "<!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).<!--/Creative Commons License-->"
   mobileMenu: true
